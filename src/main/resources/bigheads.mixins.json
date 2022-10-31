@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "fr.mawathilde.bigheads.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "MixinRenderPlayer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
